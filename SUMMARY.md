@@ -1,3 +1,3 @@
 # Table of contents
 
-* [What is the meaning of life?](README.md)
+* [What is the meaning of life?](docs/README.md)
